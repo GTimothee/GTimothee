@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Timothée, deep learning engineer at Jouve, France.
+I am Timothée, data scientist.
 
-- 🔭 I’m currently working on computer vision. My last project was on semantic segmentation.
+- 🔭 I’m currently working with time series !
 - 👯 I am always open to collaboration
 - ✨ My favorite tech stack: Python, Pytorch, Ray ✨
 - 🌱 My main interests are machine and deep learning, but I also love big data
