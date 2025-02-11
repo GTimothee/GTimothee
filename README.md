@@ -1,4 +1,4 @@
-### Hi there 👋
+### Timothée Guédon
 
 [Blog](https://gtimothee.github.io/blog/) 
 
